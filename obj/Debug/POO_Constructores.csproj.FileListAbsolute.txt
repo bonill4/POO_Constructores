@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\POO_Constructores\bin\Debug\POO_Constructores.exe.config
+C:\Users\willi\source\repos\POO_Constructores\bin\Debug\POO_Constructores.exe
+C:\Users\willi\source\repos\POO_Constructores\bin\Debug\POO_Constructores.pdb
+C:\Users\willi\source\repos\POO_Constructores\obj\Debug\POO_Constructores.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\POO_Constructores\obj\Debug\POO_Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\POO_Constructores\obj\Debug\POO_Constructores.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\POO_Constructores\obj\Debug\POO_Constructores.exe
+C:\Users\willi\source\repos\POO_Constructores\obj\Debug\POO_Constructores.pdb
